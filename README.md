@@ -104,6 +104,6 @@ We welcome contributions! Feel free to submit PRs or report issues.
 
 👨‍💻 **Developed by:** DANIEL SUCCESSFUL
 📧 **Contact:** juliusdaniel554@gmail.com
-📂 **GitHub:** [Your GitHub Profile](https://github.com/BISHOPDAN)
+📂 **GitHub:** [(https://github.com/BISHOPDAN)]
 
 ---
