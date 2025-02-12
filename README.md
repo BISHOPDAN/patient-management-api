@@ -17,10 +17,8 @@ PatientManagementAPI/
 │── Models/                 # Data Models (Entities, DTOs)
 │── Repositories/           # Data Access Layer (Interfaces, Implementations)
 │── Services/               # Business Logic Layer
-│── Tests/                  # Unit Tests
 │── Startup.cs              # App Configuration & Middleware
 │── appsettings.json        # Configuration File
-│── Dockerfile              # Containerization Setup
 │── README.md               # Project Documentation
 ```
 
@@ -33,7 +31,7 @@ Ensure you have the following installed:
 
 ### **2️⃣ Clone Repository**
 ```sh
-git clone https://github.com/your-username/PatientManagementAPI.git
+git clone https://github.com/BISHOPDAN/patient-management-api.git
 cd patient-management-api
 ```
 
