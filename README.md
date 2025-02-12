@@ -17,7 +17,7 @@ PatientManagementAPI/
 │── Models/                 # Data Models (Entities, DTOs)
 │── Repositories/           # Data Access Layer (Interfaces, Implementations)
 │── Services/               # Business Logic Layer
-│── Startup.cs              # App Configuration & Middleware
+│── program.cs              # App Configuration & Middleware
 │── appsettings.json        # Configuration File
 │── README.md               # Project Documentation
 ```
